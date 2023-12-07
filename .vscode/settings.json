@@ -1,0 +1,25 @@
+{
+	"window.zoomLevel": 0,
+	"workbench.startupEditor": "newUntitledFile",
+	"workbench.sideBar.location": "left",
+	"workbench.statusBar.visible": true,
+	"editor.renderWhitespace": "all",
+	"editor.renderControlCharacters": true,
+	"breadcrumbs.enabled": true,
+	"editor.hideCursorInOverviewRuler": true,
+	"editor.tabSize": 3,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.mouseWheelZoom": true,
+	"workbench.editor.closeEmptyGroups": false,
+	"editor.formatOnSave": true,
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"autoprefix": "last 5 versions",
+			"extensionName": ".css",
+			"savePath": "css",
+		}
+	]
+}
